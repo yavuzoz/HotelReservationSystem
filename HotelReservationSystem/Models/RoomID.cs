@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace HotelReservationSystem.Models
 {
+	/// <summary>
+	/// Class to represent the RoomID
+	/// </summary>
 	internal class RoomID
 	{
 	}
